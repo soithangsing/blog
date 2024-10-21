@@ -153,3 +153,18 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
 ];
+
+import type { GiscusProps } from "@giscus/react";
+
+export const GISCUS: GiscusProps = {
+  repo: "soithangsing/blog",
+  repoId: "R_kgDONDTWFQ",
+  category: "General",
+  categoryId: "DIC_kwDONDTWFc4Cjj5v",
+  mapping: "pathname",
+  reactionsEnabled: "0",
+  emitMetadata: "0",
+  inputPosition: "bottom",
+  lang: "en",
+  loading: "lazy",
+};
