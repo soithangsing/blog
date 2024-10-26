@@ -21,3 +21,10 @@ Here are certain features of this site.
 - I love to sleep
 - I love to code
 
+## Upcoming Features
+
+1.	Use more pictures and gifs to describe stuff, as they say a picture speaks a thousand words
+2.	A more versatile commenting system
+3.	Quality posts
+4.	Voting system? (for next post/topic)
+
