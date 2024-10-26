@@ -19,11 +19,12 @@ I got a free theme for The Master Spirit, made it orange color, got a logo for i
 
 It had a commenting system and this one is currently limited to comments on GitHub but you can bet I am yet to implement a commenting system so you can tell me what you think because a one-way communication is delusional. You’ve got to take feedback and work on it while at the same time distinguish valuable information from the unessential.
 
-After that I followed a tutorial for a Portfolio Site made using HTML, CSS and JS. Finished it and you can still find it today [here](https://blissful-clarke-77b2ef.netlify.app/). I’ve kinda butchered it now it was way more proper in the beginning.
+After that I followed a tutorial for a Portfolio Site made using HTML, CSS and JS. Finished it and you can still find it [here](https://blissful-clarke-77b2ef.netlify.app/) today. I’ve kinda butchered it now it was way more proper in the beginning.
 
 Come 2024 I re-registered my domain name and pointed it to the aforementioned link. After that I made a blog using Hugo and the PaperModX theme and the plan was to host it and redirect my site to it but that project collected dust while I was busy working on college assignments and other stuff (or at least that’s my excuse).
 
-After I finally got a breather and since I hadn’t made any progress configuring my Hugo Blog and also I had heard of good things about Astro, which is a web framework for HTML, CSS, JS, Next.js and God knows what else, I decided to give it a spin and so far, it’s been so good. 
+After I finally got a breather and since I hadn’t made *any* progress configuring my Hugo Blog and also I had heard of good things about Astro, which is a web framework for HTML, CSS, JS, Next.js and God knows what else, I decided to give it a spin and so far, it’s been so good.
+
 ### Main Content:
 These days most people prefer visual content and so do I to be honest but I have written in the past and I know the many benefits that reading and writing has so I’m sticking to it. Besides, when videos are too well made with the perfect hooks, fonts, transitions and you name it, I find it hard to trust or trying too hard. Not like that’s a bad thing. 
 
@@ -36,5 +37,5 @@ Features to make this the best personal blog possible would be:
 3.	Quality posts
 4.	Voting system? (for next post/topic)
 *The list will keep getting updated on this page and also on the About page. 
-As of this moment
-Two Indomie Instant Noodles are waiting to be cooked. Brb catch you later!
+
+As of this moment Two Indomie Instant Noodles are waiting to be cooked. Brb catch you later!
