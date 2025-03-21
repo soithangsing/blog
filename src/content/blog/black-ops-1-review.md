@@ -1,5 +1,6 @@
 ---
 author: Soi Thangsing
+pubDatetime: 2025-03-21T13:59:00Z
 title: Call of Duty: Black Ops Classic Review
 slug: black-ops-review
 featured: true
