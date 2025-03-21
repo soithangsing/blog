@@ -8,7 +8,7 @@ draft: false
 tags:
   - review
 description:
-  A review of Call of Duty: Black Ops Classic
+  A review of Call of Duty Black Ops Classic
 ---
 Call of Duty Black Ops Campaign Review
  
