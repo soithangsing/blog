@@ -1,7 +1,7 @@
 ---
 author: Soi Thangsing
 pubDatetime: 2025-03-21T13:59:00Z
-title: Call of Duty: Black Ops Classic Review
+title: Call of Duty Black Ops Classic Review
 slug: black-ops-review
 featured: true
 draft: false
@@ -46,4 +46,6 @@ There was a lot of variety in the guns and I thoroughly enjoyed shooting all of 
 
 The graphics might have been AAA back in the day, but in 2024 look very dated even with the highest settings turned on, so it was a slight challenge getting used to the visuals and dated gameplay but it’s alright, I’ve played and enjoyed games with worse graphics (ahem, looking at you Minecraft).
 Unfortunately, since ya boy is not splurging on this game, I could not review multiplayer or Zombies but the campaign has been great and if you haven’t played this game before and call yourself a gamer, bro you’re seriously missing out. So go ahead and play it. 
+
+
 Rated: Soi Recommends ✅
